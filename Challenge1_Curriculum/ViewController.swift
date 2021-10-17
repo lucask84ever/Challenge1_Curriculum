@@ -10,15 +10,15 @@ import UIKit
 class ViewController: UIViewController {
     @IBOutlet weak var curriculumTableView: UITableView!
     
-    let movies: [String] = ["Homem de ferro 2 - 2008",
-                            "Os Vingadores - 2012",
-                            "Capitão América 2: Soldado Invernal - 2014",
-                            "Vingadores: Era de Ultron - 2015",
-                            "Capitão América 3: Guerra Civil - 2016",
-                            "Vingadores: Guerra Infinita - 2018",
-                            "Capitã Marvel - 2019",
-                            "Vingadores: Ultimato - 2019",
-                            "Viúva Negra - 2021"]
+    let movies: [String] = ["Homem de ferro 2(2008)",
+                            "Os Vingadores(2012)",
+                            "Capitão América 2: Soldado Invernal(2014)",
+                            "Vingadores: Era de Ultron(2015)",
+                            "Capitão América 3: Guerra Civil(2016)",
+                            "Vingadores: Guerra Infinita(2018)",
+                            "Capitã Marvel(2019)",
+                            "Vingadores: Ultimato(2019)",
+                            "Viúva Negra(2021)"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -37,6 +37,10 @@ extension ViewController: UITableViewDataSource {
         let cell = UITableViewCell()
         cell.textLabel?.text = movies[indexPath.row]
         return cell
+    }
+    
+    func tableView(_ tableView: UITableView, titleForHeaderInSection section: Int) -> String? {
+        return "Filmes"
     }
 }
 

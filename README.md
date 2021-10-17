@@ -10,7 +10,6 @@ Vamos apresentar em uma tableview todos os filmes da Marvel que contam com a par
 ## Desafios: 
 - Criar uma classe Filme com atributo de Nome, ano de estreia e imagem.
 - Criar uma célula customizada que apresente os dados do filme com a imagem.
-- Remover as células não utilizadas.
 
 ## Objetivos:
  - Entender o funcionamento de tableviews
