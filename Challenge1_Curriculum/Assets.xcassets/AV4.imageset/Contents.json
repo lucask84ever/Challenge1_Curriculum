@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "big-poster-filme-vingadores-ultimato-lo003-tamanho-90x60-cm-presente-nerd.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "lossless",
+    "template-rendering-intent" : "original"
+  }
+}

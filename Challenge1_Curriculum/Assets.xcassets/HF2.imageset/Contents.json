@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "Homem_de_Ferro_2_-_Poster.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "lossless",
+    "template-rendering-intent" : "original"
+  }
+}

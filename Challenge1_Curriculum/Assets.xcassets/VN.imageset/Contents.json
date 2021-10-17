@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "E6350E2B-45B1-4DBA-999A-BD34D797001D.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "lossless",
+    "template-rendering-intent" : "original"
+  }
+}

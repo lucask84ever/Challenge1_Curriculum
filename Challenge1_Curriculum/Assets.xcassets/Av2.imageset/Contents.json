@@ -1,0 +1,16 @@
+{
+  "images" : [
+    {
+      "filename" : "poster-os-vingadores-2-a-era-de-ultron-o-95f5a316.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "compression-type" : "lossless",
+    "template-rendering-intent" : "original"
+  }
+}
