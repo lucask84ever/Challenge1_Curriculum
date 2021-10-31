@@ -57,12 +57,12 @@
 			isa = PBXGroup;
 			children = (
 				F38C4040271C5943002742DD /* AppDelegate.swift */,
+				F38C4049271C5944002742DD /* Assets.xcassets */,
+				F38C404E271C5944002742DD /* Info.plist */,
+				F38C404B271C5944002742DD /* LaunchScreen.storyboard */,
+				F38C4046271C5943002742DD /* Main.storyboard */,
 				F38C4042271C5943002742DD /* SceneDelegate.swift */,
 				F38C4044271C5943002742DD /* ViewController.swift */,
-				F38C4046271C5943002742DD /* Main.storyboard */,
-				F38C4049271C5944002742DD /* Assets.xcassets */,
-				F38C404B271C5944002742DD /* LaunchScreen.storyboard */,
-				F38C404E271C5944002742DD /* Info.plist */,
 			);
 			path = Challenge1_Curriculum;
 			sourceTree = "<group>";
